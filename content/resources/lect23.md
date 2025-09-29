@@ -6,6 +6,8 @@ description: 'This resource includes information on remember the developing worl
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/a372fd21684eb5e98dbbf0d7141f44bb_lect23.pdf
 file_size: 391968
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource includes information on land use, mobility, and acces
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/40048a4bde061707c5c147b1d343de30_cporter_lect22.pdf
 file_size: 320028
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

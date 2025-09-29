@@ -5,6 +5,8 @@ description: 'This resource includes information on the future of the metropolis
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/bbd1bed71259c6d36bdce4bbe4b74d5f_lect24.pdf
 file_size: 57838
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
