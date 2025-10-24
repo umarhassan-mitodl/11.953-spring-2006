@@ -6,8 +6,6 @@ description: 'This resource includes information on review of introductory assig
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/366942772735bc0ead6b6a21c6c0afdc_lect5.pdf
 file_size: 1451207
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

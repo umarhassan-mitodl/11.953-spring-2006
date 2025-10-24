@@ -5,8 +5,6 @@ description: This resource includes information on the background, tasks to be p
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/7fa6880121ea53c8e4e0af6d629d7976_assn4.pdf
 file_size: 38560
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

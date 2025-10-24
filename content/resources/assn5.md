@@ -5,8 +5,6 @@ description: This resource includes information on basic model purpose, data, ro
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/da3e18994b077664eecf072c32d7e30e_assn5.pdf
 file_size: 22893
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

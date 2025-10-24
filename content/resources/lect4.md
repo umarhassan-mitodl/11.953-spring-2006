@@ -7,8 +7,6 @@ description: This resource includes information on wrap-up from last lecture, th
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/732c2f077a0f7f77178e942107df1c1b_lect4.pdf
 file_size: 72747
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

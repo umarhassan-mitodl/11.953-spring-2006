@@ -5,8 +5,6 @@ description: This resource includes information on exploring the land use-transp
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/017dbf5d586bfd3314f28ed87e8f27ee_intro_assn.pdf
 file_size: 8874
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

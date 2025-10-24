@@ -5,8 +5,6 @@ description: This resource inlcudes information on metropolitan growth forces, c
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/70a25e9bc4ce514e993df309344ffcc9_lect2.pdf
 file_size: 130591
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

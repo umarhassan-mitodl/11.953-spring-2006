@@ -5,8 +5,6 @@ description: 'This resource includes information on financial instruments: suppl
 file: /courses/11-953-comparative-land-use-and-transportation-planning-spring-2006/6573c27a949d906512953251ef5b14b7_lect13.pdf
 file_size: 316582
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
